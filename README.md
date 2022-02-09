@@ -1,6 +1,5 @@
 
-# pedro
-hello world
+# дз1
 var
   Form1: TForm1;
   k:integer;  
